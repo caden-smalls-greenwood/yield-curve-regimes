@@ -1,0 +1,9 @@
+Result,Full sample,Before 2000,2000 and after,Typical month,Without 3 biggest months,6-month window,Clear moves only,Verdict,t-stat: Full sample,t-stat: Before 2000,t-stat: 2000 and after,t-stat: 6-month window,t-stat: Clear moves only
+Durables after a bear flattener,-1.21,-0.79,-1.75,-1.25,-0.9,-0.82,-1.76,Strong,-3.29,-2.43,-2.4,-1.82,-3.16
+Manufacturing after a bear steepener,0.55,0.1,0.8,0.45,0.35,0.17,0.43,Consistent but weak,2.53,0.36,2.65,0.93,1.49
+Other after a bear flattener,-0.33,-0.3,-0.36,-0.25,-0.24,-0.03,-0.21,Consistent but weak,-2.47,-1.68,-1.83,-0.18,-1.1
+Telecom after a bull steepener,-0.66,-0.32,-1.09,-0.77,-0.43,-0.54,-0.83,Strong,-2.23,-0.9,-2.19,-1.8,-2.35
+Durables after a bear steepener,1.04,-0.04,1.63,0.74,0.45,-0.38,0.63,Fragile,1.82,-0.09,1.95,-0.83,0.79
+Healthcare after a bear steepener,-0.34,-0.13,-0.45,-0.23,-0.13,0.2,-0.02,Fragile,-1.39,-0.33,-1.46,0.84,-0.05
+Tech after a bear steepener,-0.17,0.06,-0.3,0.04,0,-0.13,-0.28,Fragile,-0.69,0.13,-1.04,-0.53,-0.96
+Energy after a bear flattener,0.65,0.4,0.98,0.11,0.33,0.52,0.72,Consistent but weak,1.52,0.91,1.21,1.15,1.26
